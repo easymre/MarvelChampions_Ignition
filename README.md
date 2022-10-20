@@ -18,5 +18,6 @@
 11. Click the 3 dots in the top right of the "Tag Browser"
 12. Select "Import Tags"
 13. Navigate to the .json file and import
+14. Go to "Tools"-->"Launch Perspective"-->"Launch Session"
 
 ## You're Done! 
